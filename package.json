@@ -1,0 +1,10 @@
+{
+  "name": "api_node_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marlon Henrique Queroga Marques <mhqmarques@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
