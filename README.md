@@ -1,5 +1,5 @@
 # api_clients_exemplo
-Exemplo de uma API simples, de autoria do grupo Rocketseat implementado por marlonhqm
+Exemplo de uma API simples, de autoria do grupo Rocketseat implementado por mhqmarques.
 
 O presente projeto visa a exemplificação e aprendizado sobre o tema API REST e RESTful.
   - API: Interface de comunicação que visa consumir um recurso ou serviço.
